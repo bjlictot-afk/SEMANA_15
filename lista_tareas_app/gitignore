@@ -1,11 +1,4 @@
 __pycache__/
 *.pyc
-
 build/
-dist/
 *.spec
-
-venv/
-.env
-
-.vscode/
